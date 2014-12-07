@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity version="1.0.0.65" name="RemoteMediaControlServer.exe" publicKeyToken="91ad6c5328149808" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="playpause.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="RemoteMediaControlServer" version="1.0.0.18" language="neutral" processorArchitecture="x86" />
+    <commandLine file="RemoteMediaControlServer.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Gma.QrCodeNet.Encoding.dll" size="108032">
+      <assemblyIdentity name="Gma.QrCodeNet.Encoding" version="0.4.0.0" publicKeyToken="E8A75D24B142BE49" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>NcNzY04MVY7xpWt4mEbUV+ak+yQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RemoteMediaControlServer.exe" size="116224">
+      <assemblyIdentity name="RemoteMediaControlServer" version="1.0.0.18" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>pzspBlTj3TPxqogu2CMh0+HMMPw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="playpause.ico" size="21662">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>lmk9HrybUw2U04SW+q2tWLpgjSI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="RemoteMediaControlServer.exe.config" size="581">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>TTabD/5q27UOMyYEtgVO7sXEjys=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=HOME-3F897B6DBE\VaSSek" issuerKeyHash="96d7b78bbf1f8a69c5203b072edf3bca8f7d7d0c" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>kfYwGnH3rUEwcGRkt2rS9EOfCGE=</DigestValue></Reference></SignedInfo><SignatureValue>bINrV5J1dpsEK4b88DEhYi/Lt3oCNZO9tnA6OQEoxuioAzrC0DP5RC4A6r73aG//EBuOX6ACwBMqVbtrwwkf+YZ5tA3jLRJ0ZKZpqxDFJnbfbWQKDxNsWs97AD5aNHpejkVd8msZyViCXrjktlPhczXipW9GUU7cd+aQVql+a/A=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>+7w/jnw4Z//Sy5Ql6i2SSk3CHGM8hTtjqtROXY1JZ3AgPnZR9hMp230M9gh6LU1U993wCSj6tpJHS3ZN4E5jN1UBqTD2ilr/tujupkrUbkCHPNcPATwLVK+/wRPE8+st8ZORsk+vsWYmWK5vrWTVKC0bIXJK2BrTw/Qwn/Y8Lms=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="61089f43f4d26ab76464703041adf7711a30f691" Description="" Url=""><as:assemblyIdentity version="1.0.0.65" name="RemoteMediaControlServer.exe" publicKeyToken="91ad6c5328149808" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=HOME-3F897B6DBE\VaSSek</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>gRCIGlNjp6nZ+uxwRitxX2vy+Vs=</DigestValue></Reference></SignedInfo><SignatureValue>E5Aymm/eRCQjwLD7f7PhOhtXzi0gszS4wzeRrVqAzFqH2GWCMcPYp6m+10ccn6W39vCCvnHMTiE136wPDiYxvYBDWiiXwoNUpM8xox+nqhYqX0hJf/5lGFQCfVMVHR3X6m4XxR6xVm2UZEVwGxu4ocBq+hfLR2koPIO4two3LF0=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>+7w/jnw4Z//Sy5Ql6i2SSk3CHGM8hTtjqtROXY1JZ3AgPnZR9hMp230M9gh6LU1U993wCSj6tpJHS3ZN4E5jN1UBqTD2ilr/tujupkrUbkCHPNcPATwLVK+/wRPE8+st8ZORsk+vsWYmWK5vrWTVKC0bIXJK2BrTw/Qwn/Y8Lms=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVagAwIBAgIQPo+VCqSsuYRH0ulUpnhuTzAJBgUrDgMCHQUAMDcxNTAzBgNVBAMeLABIAE8ATQBFAC0AMwBGADgAOQA3AEIANgBEAEIARQBcAFYAYQBTAFMAZQBrMB4XDTEzMDkxMjE3NTY0MloXDTE0MDkxMjIzNTY0MlowNzE1MDMGA1UEAx4sAEgATwBNAEUALQAzAEYAOAA5ADcAQgA2AEQAQgBFAFwAVgBhAFMAUwBlAGswgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAPu8P458OGf/0suUJeotkkpNwhxjPIU7Y6rUTl2NSWdwID52UfYTKdt9DPYIei1NVPfd8Ako+raSR0t2TeBOYzdVAakw9opa/7bo7qZK1G5AhzzXDwE8C1Svv8ETxPPrLfGTkbJPr7FmJliub61k1SgtGyFyStga08P0MJ/2PC5rAgMBAAEwCQYFKw4DAh0FAAOBgQDpAso6jxMiB+vFk6x1ZN9Howjwed2sZ0DYcaL0RXBHgZzqO7hFDt5T0s/CIrqFljFrFardVgdghArO9VofptR0kMYxCxXfknLa+dMkYOMREY6ry0qL78DWgCgIxBbaU1BnPdheGLOTncEoGraBp0arseUMNKTapQIA87XMmkbftA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,29 @@
+C:\Documents and Settings\VaSSek\Local Settings\Application Data\Temporary Projects\Updater\bin\Debug\Updater.exe
+C:\Documents and Settings\VaSSek\Local Settings\Application Data\Temporary Projects\Updater\bin\Debug\Updater.pdb
+C:\Documents and Settings\VaSSek\Local Settings\Application Data\Temporary Projects\Updater\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\VaSSek\Local Settings\Application Data\Temporary Projects\Updater\obj\x86\Debug\Updater.exe
+C:\Documents and Settings\VaSSek\Local Settings\Application Data\Temporary Projects\Updater\obj\x86\Debug\Updater.pdb
+C:\Documents and Settings\VaSSek\мои документы\visual studio 2010\Projects\Updater\Updater\obj\x86\Debug\Updater.exe
+C:\Documents and Settings\VaSSek\мои документы\visual studio 2010\Projects\Updater\Updater\obj\x86\Debug\Updater.pdb
+C:\Documents and Settings\VaSSek\мои документы\visual studio 2010\Projects\Updater\Updater\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\VaSSek\мои документы\visual studio 2010\Projects\Updater\Updater\bin\Debug\Updater.exe
+C:\Documents and Settings\VaSSek\мои документы\visual studio 2010\Projects\Updater\Updater\bin\Debug\Updater.pdb
+C:\Documents and Settings\VaSSek\мои документы\visual studio 2010\Projects\Updater\Updater\bin\Debug\ICSharpCode.SharpZipLib.dll
+Z:\Updater\Updater\bin\Debug\ICSharpCode.SharpZipLib.dll
+Z:\Updater\Updater\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Updater\Updater\bin\Debug\RemoteMediaControlUpdater.exe
+Z:\Updater\Updater\bin\Debug\RemoteMediaControlUpdater.pdb
+Z:\Updater\Updater\obj\x86\Debug\RemoteMediaControlUpdater.exe
+Z:\Updater\Updater\obj\x86\Debug\RemoteMediaControlUpdater.pdb
+D:\Shared\Updater\Updater\bin\Debug\RemoteMediaControlUpdater.exe
+D:\Shared\Updater\Updater\bin\Debug\RemoteMediaControlUpdater.pdb
+D:\Shared\Updater\Updater\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Shared\Updater\Updater\obj\x86\Debug\Updater.csprojResolveAssemblyReference.cache
+D:\Shared\Updater\Updater\obj\x86\Debug\RemoteMediaControlUpdater.exe
+D:\Shared\Updater\Updater\obj\x86\Debug\RemoteMediaControlUpdater.pdb
+E:\Shared\Updater\Updater\bin\Debug\RemoteMediaControlUpdater.exe
+E:\Shared\Updater\Updater\bin\Debug\RemoteMediaControlUpdater.pdb
+E:\Shared\Updater\Updater\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Shared\Updater\Updater\obj\x86\Debug\Updater.csprojResolveAssemblyReference.cache
+E:\Shared\Updater\Updater\obj\x86\Debug\RemoteMediaControlUpdater.exe
+E:\Shared\Updater\Updater\obj\x86\Debug\RemoteMediaControlUpdater.pdb
