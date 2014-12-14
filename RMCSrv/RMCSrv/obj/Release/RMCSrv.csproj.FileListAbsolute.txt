@@ -1,7 +1,0 @@
-C:\Users\Senko\Documents\Visual Studio 2013\Projects\RMCSrv\RMCSrv\obj\Release\RMCSrv.Properties.Resources.resources
-C:\Users\Senko\Documents\Visual Studio 2013\Projects\RMCSrv\RMCSrv\obj\Release\RMCSrv.csproj.GenerateResource.Cache
-C:\Users\Senko\Documents\Visual Studio 2013\Projects\RMCSrv\RMCSrv\obj\Release\RMCSrv.exe
-C:\Users\Senko\Documents\Visual Studio 2013\Projects\RMCSrv\RMCSrv\obj\Release\RMCSrv.pdb
-C:\Users\Senko\Documents\Visual Studio 2013\Projects\RMCSrv\RMCSrv\bin\Release\RMCSrv.exe.config
-C:\Users\Senko\Documents\Visual Studio 2013\Projects\RMCSrv\RMCSrv\bin\Release\RMCSrv.exe
-C:\Users\Senko\Documents\Visual Studio 2013\Projects\RMCSrv\RMCSrv\bin\Release\RMCSrv.pdb
