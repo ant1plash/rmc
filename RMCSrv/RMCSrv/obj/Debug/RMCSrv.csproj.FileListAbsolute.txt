@@ -1,0 +1,7 @@
+C:\Users\Senko\documents\visual studio 2013\Projects\RMCSrv\RMCSrv\bin\Debug\RMCSrv.exe.config
+C:\Users\Senko\documents\visual studio 2013\Projects\RMCSrv\RMCSrv\bin\Debug\RMCSrv.exe
+C:\Users\Senko\documents\visual studio 2013\Projects\RMCSrv\RMCSrv\bin\Debug\RMCSrv.pdb
+C:\Users\Senko\documents\visual studio 2013\Projects\RMCSrv\RMCSrv\obj\Debug\RMCSrv.Properties.Resources.resources
+C:\Users\Senko\documents\visual studio 2013\Projects\RMCSrv\RMCSrv\obj\Debug\RMCSrv.csproj.GenerateResource.Cache
+C:\Users\Senko\documents\visual studio 2013\Projects\RMCSrv\RMCSrv\obj\Debug\RMCSrv.exe
+C:\Users\Senko\documents\visual studio 2013\Projects\RMCSrv\RMCSrv\obj\Debug\RMCSrv.pdb

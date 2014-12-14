@@ -1,0 +1,12 @@
+C:\Users\Senko\Desktop\RMC_GITHUB\RMCConfig\bin\Release\RMCConfig.exe.config
+C:\Users\Senko\Desktop\RMC_GITHUB\RMCConfig\bin\Release\RMCConfig.exe
+C:\Users\Senko\Desktop\RMC_GITHUB\RMCConfig\bin\Release\RMCConfig.pdb
+C:\Users\Senko\Desktop\RMC_GITHUB\RMCConfig\bin\Release\Gma.QrCodeNet.Encoding.dll
+C:\Users\Senko\Desktop\RMC_GITHUB\RMCConfig\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Senko\Desktop\RMC_GITHUB\RMCConfig\bin\Release\Gma.QrCodeNet.Encoding.xml
+C:\Users\Senko\Desktop\RMC_GITHUB\RMCConfig\obj\x86\Release\RemoteMediaControlServer.csprojResolveAssemblyReference.cache
+C:\Users\Senko\Desktop\RMC_GITHUB\RMCConfig\obj\x86\Release\ConfigTool.ConfigForm.resources
+C:\Users\Senko\Desktop\RMC_GITHUB\RMCConfig\obj\x86\Release\RMCConfig.Properties.Resources.resources
+C:\Users\Senko\Desktop\RMC_GITHUB\RMCConfig\obj\x86\Release\RemoteMediaControlServer.csproj.GenerateResource.Cache
+C:\Users\Senko\Desktop\RMC_GITHUB\RMCConfig\obj\x86\Release\RMCConfig.exe
+C:\Users\Senko\Desktop\RMC_GITHUB\RMCConfig\obj\x86\Release\RMCConfig.pdb

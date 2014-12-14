@@ -1,0 +1,29 @@
+C:\Documents and Settings\VaSSek\Мои документы\Visual Studio 2010\Projects\Updater\Updater\bin\Release\Updater.exe
+C:\Documents and Settings\VaSSek\Мои документы\Visual Studio 2010\Projects\Updater\Updater\bin\Release\Updater.pdb
+C:\Documents and Settings\VaSSek\Мои документы\Visual Studio 2010\Projects\Updater\Updater\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Documents and Settings\VaSSek\Мои документы\Visual Studio 2010\Projects\Updater\Updater\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\VaSSek\Мои документы\Visual Studio 2010\Projects\Updater\Updater\obj\x86\Release\Updater.exe
+C:\Documents and Settings\VaSSek\Мои документы\Visual Studio 2010\Projects\Updater\Updater\obj\x86\Release\Updater.pdb
+Z:\Updater\Updater\bin\Release\ICSharpCode.SharpZipLib.dll
+Z:\Updater\Updater\obj\x86\Release\ResolveAssemblyReference.cache
+Z:\Updater\Updater\bin\Release\RemoteMediaControlUpdater.exe
+Z:\Updater\Updater\bin\Release\RemoteMediaControlUpdater.pdb
+Z:\Updater\Updater\obj\x86\Release\RemoteMediaControlUpdater.exe
+Z:\Updater\Updater\obj\x86\Release\RemoteMediaControlUpdater.pdb
+D:\Shared\Updater\Updater\obj\x86\Release\RemoteMediaControlUpdater.exe
+D:\Shared\Updater\Updater\obj\x86\Release\RemoteMediaControlUpdater.pdb
+D:\Shared\Updater\Updater\bin\Release\RemoteMediaControlUpdater.exe
+D:\Shared\Updater\Updater\bin\Release\RemoteMediaControlUpdater.pdb
+D:\Shared\Updater\Updater\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\Shared\Updater\Updater\obj\x86\Release\Updater.csprojResolveAssemblyReference.cache
+E:\Shared\Updater\Updater\obj\x86\Release\RemoteMediaControlUpdater.exe
+E:\Shared\Updater\Updater\obj\x86\Release\RemoteMediaControlUpdater.pdb
+E:\Shared\Updater\Updater\bin\Release\RemoteMediaControlUpdater.exe
+E:\Shared\Updater\Updater\bin\Release\RemoteMediaControlUpdater.pdb
+E:\Shared\Updater\Updater\bin\Release\ICSharpCode.SharpZipLib.dll
+E:\Shared\Updater\Updater\obj\x86\Release\Updater.csprojResolveAssemblyReference.cache
+C:\Users\Senko\Desktop\RMC_GITHUB\Updater\Updater\bin\Release\RMCUpdater.exe
+C:\Users\Senko\Desktop\RMC_GITHUB\Updater\Updater\bin\Release\RMCUpdater.pdb
+C:\Users\Senko\Desktop\RMC_GITHUB\Updater\Updater\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Senko\Desktop\RMC_GITHUB\Updater\Updater\obj\x86\Release\RMCUpdater.exe
+C:\Users\Senko\Desktop\RMC_GITHUB\Updater\Updater\obj\x86\Release\RMCUpdater.pdb
