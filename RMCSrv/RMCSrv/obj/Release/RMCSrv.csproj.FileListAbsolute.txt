@@ -13,3 +13,14 @@ C:\Users\Senko\Desktop\RMC_GITHUB\RMCSrv\RMCSrv\obj\Release\RMCSrv.Properties.Re
 C:\Users\Senko\Desktop\RMC_GITHUB\RMCSrv\RMCSrv\obj\Release\RMCSrv.csproj.GenerateResource.Cache
 C:\Users\Senko\Desktop\RMC_GITHUB\RMCSrv\RMCSrv\obj\Release\RMCSrv.exe
 C:\Users\Senko\Desktop\RMC_GITHUB\RMCSrv\RMCSrv\obj\Release\RMCSrv.pdb
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\RMCSrv\RMCSrv\bin\Release\RMCSrv.exe.config
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\RMCSrv\RMCSrv\bin\Release\RMCSrv.exe
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\RMCSrv\RMCSrv\bin\Release\RMCSrv.pdb
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\RMCSrv\RMCSrv\obj\Release\RMCSrv.Properties.Resources.resources
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\RMCSrv\RMCSrv\obj\Release\RMCSrv.csproj.GenerateResource.Cache
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\RMCSrv\RMCSrv\obj\Release\RMCSrv.exe
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\RMCSrv\RMCSrv\obj\Release\RMCSrv.pdb
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\RMCSrv\RMCSrv\obj\Release\RMCSrv.csprojResolveAssemblyReference.cache
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\RMCSrv\RMCSrv\bin\Release\InputSimulator.dll
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\RMCSrv\RMCSrv\bin\Release\InputSimulator.pdb
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\RMCSrv\RMCSrv\bin\Release\InputSimulator.xml

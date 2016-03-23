@@ -34,7 +34,6 @@
             this.label1 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.Settings = new System.Windows.Forms.GroupBox();
-            this.copylabel = new System.Windows.Forms.Label();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.infoLabel = new System.Windows.Forms.Label();
             this.linkLabel3 = new System.Windows.Forms.LinkLabel();
@@ -44,6 +43,7 @@
             this.passBox = new System.Windows.Forms.TextBox();
             this.portNum = new System.Windows.Forms.NumericUpDown();
             this.label2 = new System.Windows.Forms.Label();
+            this.copylabel = new System.Windows.Forms.Label();
             this.adapterTip = new System.Windows.Forms.ToolTip(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.Settings.SuspendLayout();
@@ -102,15 +102,6 @@
             this.Settings.TabIndex = 10;
             this.Settings.TabStop = false;
             this.Settings.Text = "Settings";
-            // 
-            // copylabel
-            // 
-            this.copylabel.AutoSize = true;
-            this.copylabel.Location = new System.Drawing.Point(12, 269);
-            this.copylabel.Name = "copylabel";
-            this.copylabel.Size = new System.Drawing.Size(131, 13);
-            this.copylabel.TabIndex = 16;
-            this.copylabel.Text = "© ant1plash.tk 2013-2014";
             // 
             // pictureBox2
             // 
@@ -223,6 +214,15 @@
             this.label2.Size = new System.Drawing.Size(75, 16);
             this.label2.TabIndex = 5;
             this.label2.Text = "Server Port";
+            // 
+            // copylabel
+            // 
+            this.copylabel.AutoSize = true;
+            this.copylabel.Location = new System.Drawing.Point(12, 269);
+            this.copylabel.Name = "copylabel";
+            this.copylabel.Size = new System.Drawing.Size(104, 13);
+            this.copylabel.TabIndex = 16;
+            this.copylabel.Text = "© ant1plash.tk 2016";
             // 
             // ConfigForm
             // 

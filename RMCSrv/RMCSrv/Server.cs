@@ -24,7 +24,6 @@ namespace RMCSrv
 
         public static void StartServer(int _port, string Hash)
         {
-
             port = _port;
             PasswordHash = Hash;
             working = true;

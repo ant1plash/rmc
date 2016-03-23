@@ -214,8 +214,24 @@ namespace RMCSrv
             mouseUpInput.mkhi.mi.dwFlags = MouseEventFlags.MOUSEEVENTF_LEFTUP;
             SendInput(1, ref mouseUpInput, Marshal.SizeOf(new INPUT()));
         }
-		
-		static public void DoubleClick()
+
+        static public void LeftPress()
+        {
+            INPUT mouseDownInput = new INPUT();
+            mouseDownInput.type = SendInputEventType.InputMouse;
+            mouseDownInput.mkhi.mi.dwFlags = MouseEventFlags.MOUSEEVENTF_LEFTDOWN;
+            SendInput(1, ref mouseDownInput, Marshal.SizeOf(new INPUT()));
+        }
+
+        static public void LeftDepress()
+        {
+            INPUT mouseUpInput = new INPUT();
+            mouseUpInput.type = SendInputEventType.InputMouse;
+            mouseUpInput.mkhi.mi.dwFlags = MouseEventFlags.MOUSEEVENTF_LEFTUP;
+            SendInput(1, ref mouseUpInput, Marshal.SizeOf(new INPUT()));
+        }
+
+        static public void DoubleClick()
         {
             Click();
 			Click();

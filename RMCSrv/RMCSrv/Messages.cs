@@ -54,13 +54,20 @@ namespace RMCSrv
 		private const byte END_KEY = 0x28;
 		private const byte ENTER_KEY = 0x29;
 		private const byte MOUSE_LMB_DOUBLE = 0x30;
-		private const byte ESC_KEY = 0x31;
-		
-		/**
+        private const byte ESC_KEY = 0x31;
+        private const byte MINIMIZE_KEY = 0x32;
+        private const byte MAXIMIZE_KEY = 0x33;
+        private const byte DRAG_WINDOW_START = 0x34;
+        private const byte DRAG_WINDOWS_STOP = 0x35;
+        private const byte KEYSTROKE = 0x36;
+        private const byte SHOW_DESKTOP = 0x37;
+        private const byte INPUT = 0x38;
+
+        /**
 		
 			New commads 
 								**/
-								
+
         private const byte ANSWER_OK = 0x01;
         private const byte ANSWER_NOTAUTHED = 0x02;
         private const byte ANSWER_WRONGPASS = 0x03;
@@ -137,7 +144,7 @@ namespace RMCSrv
 
             MSG Message = new MSG();
 
-            BinaryReader br = new BinaryReader(new MemoryStream(data));
+            BinaryReader br = new BinaryReader(new MemoryStream(data), Encoding.UTF8);
 
             br.BaseStream.Seek(0, SeekOrigin.Begin);
 
@@ -145,7 +152,8 @@ namespace RMCSrv
             Message.proto_version = br.ReadByte();
             Message.seq = br.ReadInt32();
             Message.command = br.ReadByte();
-            Message.data = br.ReadString();
+
+            Message.data =  br.ReadString();
 
             br.Dispose();
 
@@ -361,7 +369,49 @@ namespace RMCSrv
                         KeyControls.send_event(KeyControls.VK_ESC);
                         return FormatAnswer(Message.seq, ANSWER_OK);
                     }
-					
+
+
+                case MINIMIZE_KEY:
+                    {
+                        KeyControls.MinimizeActiveWindow();
+                        return FormatAnswer(Message.seq, ANSWER_OK);
+                    }
+
+                case MAXIMIZE_KEY:
+                    {
+                        KeyControls.MaximizeActiveWindow();
+                        return FormatAnswer(Message.seq, ANSWER_OK);
+                    }
+
+                case DRAG_WINDOW_START:
+                    {
+                        CursorManager.LeftPress();
+                        return FormatAnswer(Message.seq, ANSWER_OK);
+                    }
+
+                case DRAG_WINDOWS_STOP:
+                    {
+                        CursorManager.LeftDepress();
+                        return FormatAnswer(Message.seq, ANSWER_OK);
+                    }
+
+                case KEYSTROKE:
+                    {
+                        KeyControls.KeyStroke(Message.data);
+                        return FormatAnswer(Message.seq, ANSWER_OK);
+                    }
+
+                case SHOW_DESKTOP:
+                    {
+                        KeyControls.ShowDesktop();
+                        return FormatAnswer(Message.seq, ANSWER_OK);
+                    }
+
+                case INPUT:
+                    {
+                        KeyControls.inputKeys(Message.data);
+                        return FormatAnswer(Message.seq, ANSWER_OK);
+                    }
 
             }
             return null;

@@ -10,3 +10,15 @@ C:\Users\Senko\Desktop\RMC_GITHUB\RMCConfig\obj\x86\Release\RMCConfig.Properties
 C:\Users\Senko\Desktop\RMC_GITHUB\RMCConfig\obj\x86\Release\RemoteMediaControlServer.csproj.GenerateResource.Cache
 C:\Users\Senko\Desktop\RMC_GITHUB\RMCConfig\obj\x86\Release\RMCConfig.exe
 C:\Users\Senko\Desktop\RMC_GITHUB\RMCConfig\obj\x86\Release\RMCConfig.pdb
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\RMCConfig\bin\Release\RMCConfig.exe.config
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\RMCConfig\bin\Release\RMCConfig.exe
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\RMCConfig\bin\Release\RMCConfig.pdb
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\RMCConfig\bin\Release\Gma.QrCodeNet.Encoding.dll
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\RMCConfig\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\RMCConfig\bin\Release\Gma.QrCodeNet.Encoding.xml
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\RMCConfig\obj\x86\Release\RemoteMediaControlServer.csprojResolveAssemblyReference.cache
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\RMCConfig\obj\x86\Release\ConfigTool.ConfigForm.resources
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\RMCConfig\obj\x86\Release\RMCConfig.Properties.Resources.resources
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\RMCConfig\obj\x86\Release\RemoteMediaControlServer.csproj.GenerateResource.Cache
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\RMCConfig\obj\x86\Release\RMCConfig.exe
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\RMCConfig\obj\x86\Release\RMCConfig.pdb

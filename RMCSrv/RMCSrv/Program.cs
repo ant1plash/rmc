@@ -32,6 +32,8 @@ namespace RMCSrv
         [STAThread]
         static void Main(string[] args)
         {
+
+            
             LOGGER.LOG("-----------------------------------------");
             LOGGER.LOG("STARING");
 

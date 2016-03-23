@@ -5,3 +5,14 @@ C:\Users\Senko\documents\visual studio 2013\Projects\RMCSrv\RMCSrv\obj\Debug\RMC
 C:\Users\Senko\documents\visual studio 2013\Projects\RMCSrv\RMCSrv\obj\Debug\RMCSrv.csproj.GenerateResource.Cache
 C:\Users\Senko\documents\visual studio 2013\Projects\RMCSrv\RMCSrv\obj\Debug\RMCSrv.exe
 C:\Users\Senko\documents\visual studio 2013\Projects\RMCSrv\RMCSrv\obj\Debug\RMCSrv.pdb
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\RMCSrv\RMCSrv\bin\Debug\RMCSrv.exe.config
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\RMCSrv\RMCSrv\bin\Debug\RMCSrv.exe
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\RMCSrv\RMCSrv\bin\Debug\RMCSrv.pdb
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\RMCSrv\RMCSrv\obj\Debug\RMCSrv.Properties.Resources.resources
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\RMCSrv\RMCSrv\obj\Debug\RMCSrv.csproj.GenerateResource.Cache
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\RMCSrv\RMCSrv\obj\Debug\RMCSrv.exe
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\RMCSrv\RMCSrv\obj\Debug\RMCSrv.pdb
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\RMCSrv\RMCSrv\bin\Debug\InputSimulator.dll
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\RMCSrv\RMCSrv\obj\Debug\RMCSrv.csprojResolveAssemblyReference.cache
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\RMCSrv\RMCSrv\bin\Debug\InputSimulator.pdb
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\RMCSrv\RMCSrv\bin\Debug\InputSimulator.xml

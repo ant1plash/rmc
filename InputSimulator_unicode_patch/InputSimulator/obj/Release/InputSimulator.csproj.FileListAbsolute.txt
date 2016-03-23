@@ -1,0 +1,6 @@
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\InputSimulator_unicode_patch\InputSimulator\bin\Release\InputSimulator.XML
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\InputSimulator_unicode_patch\InputSimulator\bin\Release\InputSimulator.dll
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\InputSimulator_unicode_patch\InputSimulator\bin\Release\InputSimulator.pdb
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\InputSimulator_unicode_patch\InputSimulator\obj\Release\InputSimulator.csprojResolveAssemblyReference.cache
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\InputSimulator_unicode_patch\InputSimulator\obj\Release\InputSimulator.dll
+C:\Users\android\Documents\Visual Studio 2015\Projects\rmc-master\InputSimulator_unicode_patch\InputSimulator\obj\Release\InputSimulator.pdb
